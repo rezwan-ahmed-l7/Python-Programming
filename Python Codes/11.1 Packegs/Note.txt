@@ -1,0 +1,3 @@
+This " Student " folder is a Python package that contains two files: "info.py" and "result.py". These files define two modules: "info" and "result". 
+
+These modules of " Student " folder can be imported outside the Student folder as a package in Main.py code
