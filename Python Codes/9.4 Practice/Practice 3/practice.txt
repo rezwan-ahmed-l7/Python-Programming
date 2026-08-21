@@ -1,0 +1,4 @@
+Hi, everyone!
+We are learning Files.
+Using Python.
+Python is very easy.
